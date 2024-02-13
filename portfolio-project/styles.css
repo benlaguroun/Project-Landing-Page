@@ -15,7 +15,7 @@ header {
 }
 
 .logo img {
-    width: 100px; /* Adjust size as needed */
+    width: 100px; 
 }
 
 nav ul {
@@ -36,7 +36,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    border-bottom: 2px solid #fff; /* Add underline on hover */
+    border-bottom: 2px solid #fff; 
 }
 
 
